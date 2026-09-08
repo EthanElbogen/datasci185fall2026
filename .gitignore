@@ -222,3 +222,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/Lecture_01
+Lecture_01/Lecture01.ipynb
